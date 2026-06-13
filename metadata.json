@@ -1,0 +1,6 @@
+{
+  "name": "Street Nitro",
+  "description": "High-speed arcade street racing game with 3D perspective roads, nitro boost levels, extreme air stunts, customizable supercars, and multiple racing modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
